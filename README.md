@@ -3,7 +3,7 @@
 
 **vitorfebraga/vitorfebraga** 
 
-Here are some ideas to get you started:
+Here are some things About Me!
 
 - 🔭 I’m currently working on Startups about Brain and Mental Health
      -[ MentalUnion ](https://mentalunion.com) and [ MentalJobs ](https://bit.ly/3oFyJ63)
