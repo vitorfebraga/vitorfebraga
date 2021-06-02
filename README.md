@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 
-![Vitor Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfebraga&show_icons=true&theme=radical)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfebraga&show_icons=true&theme=radical)
 
 
 
