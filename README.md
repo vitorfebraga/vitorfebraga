@@ -17,7 +17,7 @@ Here are some things About Me!
 
 <h1 align="center">- 📫 How to reach me</h1>
 <div align="center">
-<img width="150px" src="https://ik.imagekit.io/kxgs2j3ypn9/frame_b2Yfc6bDU.png">
+<img width="150px" src="https://ik.imagekit.io/kxgs2j3ypn9/qrcode_qE3Djxh3UY.png">
 </div>
 
 
