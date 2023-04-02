@@ -12,7 +12,7 @@ Here are some things About Me!
 
 
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfebraga&show_icons=true&theme=radical)
+
 
 
 <h1 align="center">- 📫 How to reach me</h1>
