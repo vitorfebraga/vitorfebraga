@@ -6,8 +6,8 @@
 
 Here are some things About Me!
 
-- 🔭 I’m currently working on Startups about Brain and Mental Health
-     -[ MentalUnion ](https://mentalunion.com) 
+- 🔭 I’m currently the Founder of CNY
+     -[ CNY ](https://createnewyear.com) 
 - 🌱 I’m currently teaching more about Blockchain and Cryptocurrency [ Milionario com Criptomoedas ](https://www.milionariocomcriptomoedas.website/)
 
 
